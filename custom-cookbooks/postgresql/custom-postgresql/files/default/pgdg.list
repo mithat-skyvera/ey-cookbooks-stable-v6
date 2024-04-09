@@ -1,0 +1,2 @@
+deb https://apt-archive.postgresql.org/pub/repos/apt/ bionic-pgdg main
+deb https://apt-archive.postgresql.org/pub/repos/apt bionic-pgdg-archive main
